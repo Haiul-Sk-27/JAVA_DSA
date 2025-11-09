@@ -1,3 +1,4 @@
+//Problem: Find two numbers in the array that add up to a specific target.
 import java.util.HashMap;
 
 public class TwoSum {
