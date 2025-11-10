@@ -1,3 +1,5 @@
+//Problem: Return an array where each element is the product of all other elements. 
+
 public class ProductExceptself{
     public static int[] productExceptSelf(int[] nums){
         int n = nums.length;
