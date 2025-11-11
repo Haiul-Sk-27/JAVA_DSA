@@ -1,3 +1,5 @@
+// Find the maximum water that can be trapped between two lines.
+
 public class ContainerWithMostWater{
     public static int maxArea(int[] height){
         int left = 0;
